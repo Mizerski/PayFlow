@@ -1,0 +1,4 @@
+#Mon Oct 24 13:22:18 BRT 2022
+base.0=/home/coffe/Documentos/Flutter/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
