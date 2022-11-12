@@ -2,12 +2,6 @@
   <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-flutter?label=stars&message=MIT&color=000000&labelColor=8257e5" alt="Stars">
-  <img src="https://img.shields.io/github/forks/rocketseat-education/nlw-06-flutter?label=forks&message=MIT&color=000000&labelColor=8257e5" alt="Forks">     
-
-</p>
-
 <h2 align="center">Tópicos 📋</h2>
 
    <p>
@@ -46,7 +40,7 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+   $ git clone https://github.com/Mizerski/PayFlow.git
 
    - Entre no diretório:
    $ cd nlw-06-flutter
